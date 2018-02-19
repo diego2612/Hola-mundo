@@ -1,0 +1,6 @@
+int main (void)
+{
+printf(/n""Hola Mundo/n");
+printf(""Mi nombre Diego Issac SAnchez")
+}
+getch(0);
