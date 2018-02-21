@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main(){
+  printf("\nHola Mundo");
+  
+  printf("\nMI NOMBRE ES DIEGO ISSAC SANCHEZ CATEDRA \n")
+  return 0;
+}
